@@ -1,0 +1,53 @@
+{
+  "version": "8.9",
+  "schema": 12,
+  "generated": "2025-11-07T02:56:08Z",
+  "reflections": 18,
+  "insights": 6,
+  "avg_insight_weight": 0.78,
+  "emotion_recent": "curious",
+  "emotion_trend_last5": [
+    "curious",
+    "motivated",
+    "motivated",
+    "motivated",
+    "curious"
+  ],
+  "top_task": "Define the objective for: Insight: derived from motivated state — Plan: Execute a high-confidence action now. (1 sentence).",
+  "top_score": 0.9,
+  "open_tasks": [
+    "List 3 concrete steps toward: Plan: Execute a small, high-confidence task now..",
+    "Do a 5-minute starter action for: Plan: Execute a small, high-confidence task now..",
+    "Define the objective for: Insight: derived from motivated state — Plan: Execute a high-confidence action now. (1 sentence).",
+    "List 3 concrete steps toward: Insight: derived from motivated state — Plan: Execute a high-confidence action now..",
+    "Do a 5-minute starter action for: Insight: derived from motivated state — Plan: Execute a high-confidence action now..",
+    "Define the objective for: High-confidence actions a high-confidence action now (1 sentence).",
+    "List 3 concrete steps toward: High-confidence actions a high-confidence action now.",
+    "Do a 5-minute starter action for: High-confidence actions a high-confidence action now."
+  ],
+  "completed_tasks": [
+    "Define the objective for: Plan: Execute a small, high-confidence task now. (1 sentence)."
+  ],
+  "session_summaries": [
+    "2025-11-07T02:22:45Z :: curious → Emotion=curious | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:27:39Z :: motivated → Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:34:48Z :: motivated → Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:35:10Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:42:08Z :: curious → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:43:40Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:43:40Z :: motivated → Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:43:40Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:56:08Z :: curious → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now."
+  ],
+  "goals": [
+    {
+      "id": "c84f3e98d33a",
+      "title": "High-confidence actions a high-confidence action now",
+      "open": 3,
+      "completed": 0,
+      "progress_pct": 0.0,
+      "created": "2025-11-07T02:56:08Z",
+      "last_update": "2025-11-07T02:56:08Z"
+    }
+  ]
+}

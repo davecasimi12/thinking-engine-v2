@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./nicole_strategist_v1.py"
+    ]
+}

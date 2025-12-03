@@ -1,0 +1,32 @@
+{
+  "campaign": {
+    "brand_name": "Nivora",
+    "offer": "Done-for-you AI campaign system",
+    "target_audience": "small business owners and content creators",
+    "goal": "get more sales",
+    "platform": "tiktok",
+    "tone": "bold"
+  },
+  "media_kit": {
+    "image_prompt": "Ultra-clean TikTok-style vertical video style ad for the brand 'Nivora'. Show a confident small business owner looking at their phone while analytics and social media icons glow around them. Highlight the idea: 'Done-for-you AI campaign system'. Color palette: modern purples, blues, and white. Composition optimized for vertical video thumbnail / story format.",
+    "thumbnail_caption": "Killer ads. Zero guesswork.",
+    "hook_line": "Stop wasting money on dead ads — let Nivora do the heavy lifting and convert views into sales.",
+    "video_script": "[Hook / 0–3s]\nStop wasting money on dead ads — let Nivora do the heavy lifting and convert views into sales.\n\n[Pain / 3–8s]\nYou're posting nonstop, but your tiktok views are flat. No clicks, no sales, just noise.\n\n[Solution / 8–18s]\nNivora builds smart campaigns for you. Nicole designs the content, Sam tracks performance, Jon handles posting, and Maya coaches you on what’s working. Every ad is tested, improved, and never blindly reposted.\n\n[CTA / 18–25s]\nTap the link to launch your first campaign: 'Done-for-you AI campaign system'. Let Nivora turn your content into real get more sales.",
+    "estimated_duration_seconds": 30,
+    "scenes": [
+      "[Hook / 0–3s]\nStop wasting money on dead ads — let Nivora do the heavy lifting and convert views into sales.",
+      "[Pain / 3–8s]\nYou're posting nonstop, but your tiktok views are flat. No clicks, no sales, just noise.",
+      "[Solution / 8–18s]\nNivora builds smart campaigns for you. Nicole designs the content, Sam tracks performance, Jon handles posting, and Maya coaches you on what’s working. Every ad is tested, improved, and never blindly reposted.",
+      "[CTA / 18–25s]\nTap the link to launch your first campaign: 'Done-for-you AI campaign system'. Let Nivora turn your content into real get more sales."
+    ],
+    "generated_at": "2025-11-21T05:08:20.243429Z",
+    "language_analysis": {
+      "language_code": "en",
+      "confidence": 0.8,
+      "needs_translation": false,
+      "flagged": false,
+      "flags": []
+    }
+  },
+  "saved_at": "2025-11-21T05:08:20.243770Z"
+}

@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "history": [
+    {
+      "ts": "2025-11-07T23:07:42Z",
+      "speaker": "YZ",
+      "text": "/usr/local/bin/python3 /Users/davecasimir/Desktop/Thinking_Engine_v2/Thinking_engine_20.0.py"
+    },
+    {
+      "ts": "2025-11-07T23:07:42Z",
+      "speaker": "Nova",
+      "text": "Understood. Loop is stable (resilience 1.0). Reflection says: Recent focus: recall (3 events).. Say a command or goal and I’ll execute. ⚙️"
+    },
+    {
+      "ts": "2025-11-07T23:13:06Z",
+      "speaker": "YZ",
+      "text": "/usr/local/bin/python3 /Users/davecasimir/Desktop/Thinking_Engine_v2/nova_listener.py"
+    },
+    {
+      "ts": "2025-11-07T23:13:06Z",
+      "speaker": "Nova",
+      "text": "Understood. Loop is stable (resilience 1.0). Reflection says: Recent focus: recall (3 events).. I remember your last note — still aligned. Say a command or goal and I’ll execute. ⚙️"
+    },
+    {
+      "ts": "2025-11-07T23:20:40Z",
+      "speaker": "YZ",
+      "text": "/usr/local/bin/python3 /Users/davecasimir/Desktop/Thinking_Engine_v2/nova_listener_chat.py"
+    },
+    {
+      "ts": "2025-11-07T23:20:40Z",
+      "speaker": "Nova",
+      "text": "Understood. Loop is stable (resilience 1.0). Reflection says: Recent focus: recall (3 events).. I remember your last note — still aligned. Say a command or goal and I’ll execute. ⚙️"
+    },
+    {
+      "ts": "2025-11-07T23:27:32Z",
+      "speaker": "YZ",
+      "text": "/usr/local/bin/python3 /Users/davecasimir/Desktop/Thinking_Engine_v2/nova_listener_chat.py"
+    },
+    {
+      "ts": "2025-11-07T23:27:32Z",
+      "speaker": "Nova",
+      "text": "Understood. Loop is stable (resilience 1.0). Reflection says: Recent focus: recall (3 events).. Say a command or goal and I’ll execute. ⚙️"
+    },
+    {
+      "ts": "2025-11-08T00:29:40Z",
+      "speaker": "YZ",
+      "text": "/usr/local/bin/python3 /Users/davecasimir/Desktop/Thinking_Engine_v2/nova_listener_chat.py"
+    },
+    {
+      "ts": "2025-11-08T00:29:40Z",
+      "speaker": "Nova",
+      "text": "Understood. Loop is stable (resilience 1.0). Reflection says: Recent focus: recall (3 events).. Say a command or goal and I’ll execute. ⚙️"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_ts": "2025-11-16T03:11:24Z",
+  "_version": "20.0",
+  "_owner": "YZ",
+  "owner": "YZ",
+  "top_memories": [
+    {
+      "id": "f8b86032-9d38-4093-8b19-a9bd40f026b3",
+      "content": "Engine initialized and stable.",
+      "tags": [
+        "system",
+        "init"
+      ],
+      "score": 205.4999999999926
+    }
+  ],
+  "healing_pulse": {
+    "ts": "2025-11-16T03:11:23Z",
+    "version": "20.0",
+    "pre": {
+      "missing_fields": 0,
+      "bad_timestamp": 0,
+      "duplicate_ids": 0,
+      "non_dict": 0
+    },
+    "repairs": {
+      "normalized_or_fixed": 0,
+      "dedup_sig": 0,
+      "dedup_ids": 0,
+      "anomalous": 0
+    },
+    "post": {
+      "total": 1,
+      "ok": 1,
+      "resilience": 1.0
+    },
+    "status": "OK"
+  }
+}

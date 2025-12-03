@@ -1,0 +1,24 @@
+{
+  "_ts": "2025-11-16T03:11:24Z",
+  "_version": "20.0",
+  "_owner": "YZ",
+  "reflection": {
+    "insight": "Recent focus: recall (3 events).",
+    "affect": {
+      "valence": 0.2,
+      "labels": [
+        "positive"
+      ],
+      "ts": "2025-11-16T03:11:23Z"
+    }
+  },
+  "loop": {
+    "heal_status": "ok | items=1 | dedup_sig=0 | dedup_ids=0 | repaired=0 | resilience=1.0",
+    "resilience": 1.0,
+    "recalled": [
+      "f8b86032-9d38-4093-8b19-a9bd40f026b3"
+    ],
+    "last_cycle_ms": 1735.69,
+    "sleep_sec": 5.0
+  }
+}

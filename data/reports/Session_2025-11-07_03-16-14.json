@@ -1,0 +1,76 @@
+{
+  "version": "9.0",
+  "schema": 13,
+  "generated": "2025-11-07T03:16:14Z",
+  "reflections": 22,
+  "insights": 7,
+  "avg_insight_weight": 0.78,
+  "emotion_recent": "curious",
+  "emotion_trend_last5": [
+    "curious",
+    "motivated",
+    "motivated",
+    "motivated",
+    "curious"
+  ],
+  "top_task": "Define the objective for: Insight: derived from motivated state — Plan: Execute a high-confidence action now. (1 sentence).",
+  "top_score": 0.9,
+  "open_tasks": [
+    "List 3 concrete steps toward: Plan: Execute a small, high-confidence task now..",
+    "Do a 5-minute starter action for: Plan: Execute a small, high-confidence task now..",
+    "Define the objective for: Insight: derived from motivated state — Plan: Execute a high-confidence action now. (1 sentence).",
+    "List 3 concrete steps toward: Insight: derived from motivated state — Plan: Execute a high-confidence action now..",
+    "Do a 5-minute starter action for: Insight: derived from motivated state — Plan: Execute a high-confidence action now..",
+    "Define the objective for: High-confidence actions a high-confidence action now (1 sentence).",
+    "List 3 concrete steps toward: High-confidence actions a high-confidence action now.",
+    "Do a 5-minute starter action for: High-confidence actions a high-confidence action now.",
+    "Define the objective for: Advance goal → High-confidence actions a high-confidence action now (1 sentence).",
+    "List 3 concrete steps toward: Advance goal → High-confidence actions a high-confidence action now.",
+    "Do a 5-minute starter action for: Advance goal → High-confidence actions a high-confidence action now.",
+    "design analytics dashboard layout"
+  ],
+  "completed_tasks": [
+    "Define the objective for: Plan: Execute a small, high-confidence task now. (1 sentence)."
+  ],
+  "session_summaries": [
+    "2025-11-07T02:35:10Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:42:08Z :: curious → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:43:40Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:43:40Z :: motivated → Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:43:40Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:56:08Z :: curious → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now.",
+    "2025-11-07T02:57:31Z :: motivated → Emotion=motivated | Next=Plan: Execute a high-confidence action now. | Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now",
+    "2025-11-07T02:57:31Z :: motivated → Emotion=curious | Next=Plan: Execute a high-confidence action now. | Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now | Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now",
+    "2025-11-07T02:57:32Z :: motivated → Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now | Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now | Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now",
+    "2025-11-07T03:16:14Z :: curious → Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now | Emotion=motivated | Next=Plan: Advance goal → High-confidence actions a high-confidence action now | Emotion=curious | Next=Plan: Advance goal → High-confidence actions a high-confidence action now"
+  ],
+  "goals": [
+    {
+      "id": "c84f3e98d33a",
+      "title": "High-confidence actions a high-confidence action now",
+      "open": 4,
+      "completed": 0,
+      "progress_pct": 0.0,
+      "created": "2025-11-07T02:56:08Z",
+      "last_update": "2025-11-07T02:56:08Z"
+    },
+    {
+      "id": "0fac22dae3a6",
+      "title": "Advance goal → High-confidence actions a high-confidence action now",
+      "open": 3,
+      "completed": 0,
+      "progress_pct": 0.0,
+      "created": "2025-11-07T02:57:32Z",
+      "last_update": "2025-11-07T02:57:32Z"
+    },
+    {
+      "id": "e90fb6e27e0f",
+      "title": "launch nivora's marketing demo",
+      "open": 0,
+      "completed": 0,
+      "progress_pct": 0.0,
+      "created": "2025-11-07T03:14:37Z",
+      "last_update": "2025-11-07T03:14:37Z"
+    }
+  ]
+}
