@@ -1,7 +1,7 @@
-from nicole_strategist_v1 import NicoleStrategist
-from sam_analytics_v1 import SamAnalytics
-from jon_executor_v1 import JonExecutor
-from maya_coach_v1 import MayaCoach
+from router.nicole_strategist_v1 import NicoleStrategist
+from router.sam_analytics_v1 import SamAnalytics
+from router.jon_executor_v1 import JonExecutor
+from router.maya_coach_v1 import MayaCoach
 
 
 def main() -> None:
